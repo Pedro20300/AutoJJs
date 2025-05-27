@@ -6,7 +6,7 @@ local Options = Find(({...})) or {
 	Keybind = "Home",
 	Language = { UI = "pt-br", Words = "pt-br" },
 	Experiments = {},
-	Tempo = 1.0,
+	Tempo = 0.9,
 	Rainbow = false,
 }
 local Version = "2.1"
